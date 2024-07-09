@@ -10,7 +10,6 @@
     --fonte3: "Sriracha", cursive;
 }
 
-
 body, html{
     margin: 0px;
     padding: 0px;
@@ -23,7 +22,7 @@ header{
     text-align: center;
     font-family: var(--fonte2);
     padding: 20px;
-    margin-bottom: 70px;
+    margin-bottom: 60px;
 }
 
 header h1{
@@ -46,9 +45,9 @@ main p{
     font-family: var(--fonte3);
     font-size: 3.3vw;
     line-height: 2em;
-    margin-left: 15px;
-    padding-bottom: 20px;
-    padding-top: 20px;
+    margin-left: 35px;
+    padding-bottom: 30px;
+    padding-top: 30px;
 }
 
 #imagem1{
@@ -69,6 +68,7 @@ section#imagem1 > p{
     background-color: rgba(31, 30, 30, 0.342);
     padding: 10px;
     color: white; 
+    margin-left: -2px;
 }
 
 section#imagem2 > p{
@@ -76,6 +76,7 @@ section#imagem2 > p{
     background-color: rgba(31, 30, 30, 0.342);
     padding: 10px;
     color: white;
+    margin-left: -2px;
 }
 
 footer{
@@ -83,8 +84,7 @@ footer{
     background-color: black;
     color: white;
     text-align: center;
-    margin-bottom: -20px;
-    
+    margin-bottom: -20px;  
 }
 
 footer a{
