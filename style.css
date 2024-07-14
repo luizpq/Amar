@@ -68,7 +68,7 @@ section#imagem1 > p{
     background-color: rgba(31, 30, 30, 0.342);
     padding: 10px;
     color: white; 
-    margin-left: -2px;
+    margin-left: 6px;
 }
 
 section#imagem2 > p{
@@ -76,7 +76,7 @@ section#imagem2 > p{
     background-color: rgba(31, 30, 30, 0.342);
     padding: 10px;
     color: white;
-    margin-left: -2px;
+    margin-left: 6px;
 }
 
 footer{
