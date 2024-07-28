@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 768px) {
+    main p{
+        font-size: 2em;
+        
+    }
+
+}
